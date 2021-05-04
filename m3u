@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="Channels",HBO
+https://h1.ustvgo.la/HBO/myStream/chunks.m3u8?nimblesessionid=13858305&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjEgMzo1NzozMyBBTSZoYXNoX3ZhbHVlPXRRSnVSM3E4dXNpekROaVU4dlU1SlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
