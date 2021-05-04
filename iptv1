@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Showtime" tvg-logo="" group-title="Channel",Showtime
+https://iptvcat.com/my_list/s/b04582e356d1992923f96a8aa398c418.m3u8
+#EXTINF:-1 tvg-name="Starz Comedy" tvg-logo="" group-title="Channel",Starz Comedy
+https://iptvcat.com/my_list/s/9f57c27ba117e80964e7b6983799a865.m3u8
