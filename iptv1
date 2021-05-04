@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0,Jackie Chan
-dgspy.hi2.ro/M3U/jackie%20chan%202000%20-%202011.m3u
+#EXTINF:-1 tvg-name="You Only Live Twice (1967)" tvg-logo="" group-title="James Bond",You Only Live Twice (1967)
+https://odepw.openstream.to/e7ce53f0c4f342fd6779f5eda7e59bdd3859d716597e01b43c681b9737555b4910472ef7e9734deaea0c377726b340d7269a9c2a9cb0cdfded92f1ef91da99d9820baf231a3350ca0ce1c47accad720c1b672eb3e093e3bd3c0306dfd9defdce451a464351e18459e44a8fe9bb9ce5360ec0699cd80e034b27e1bd1bc143454e0042e97d19d13337b90294003668db61/m/hls/720/720.m3u8
 
-#EXTINF:0,video 2 - BigBuckBunny
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-name="Live And Let Die (1973)" tvg-logo="" group-title="James Bond",Live And Let Die (1973)
+https://agqoe.openstream.to/e3d29ecc409bd004f0a4e08ecbcffea315d196d7073443ce3dd162a7ce383117e006f50b7154653d7952b9582b6f43718b422fe6a8dd302dcb042fd0fe396486aafe4035225dcbdd84562b3c534cd58766998c8c92bbc0d62dc994c2fb7574374ab3c5418e8b138a89bf7fac55acc5109e75742c802c777b3d7741994665d6d94ef5f4c161275fa31430c90099471f77/m/hls/720/720.m3u8
 
 #EXTINF:0,video 3 - ElephantsDream
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
